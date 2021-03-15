@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/marija2/apiTest/issues"
   },
-  "homepage": "https://github.com/marija2/apiTest#readme"
+  "homepage": "https://github.com/marija2/apiTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
